@@ -19,7 +19,7 @@
   "author": "zlatan",
   "license": "MIT",
   "dependencies": {
-    "@sonofbtc/sashanftmarketplace": "^1.0.1"
+    "@sonofbtc/sashanftmarketplace": "1.0.0"
   },
   "bugs": {
     "url": "https://github.com/ZlatanJ/Nftmarketplace.git"
