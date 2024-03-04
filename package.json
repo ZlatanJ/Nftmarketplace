@@ -1,0 +1,29 @@
+{
+  "name": "Nftmarketplace",
+  "version": "1.0.0",
+  "description": "first ver of my project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZlatanJ/Nftmarketplace.git"
+  },
+  "keywords": [
+    "NFT",
+    "Ethereum",
+    "Web3",
+    "Solidity"
+  ],
+  "author": "zlatan",
+  "license": "MIT",
+  "dependencies": {
+    "@SonOfBTC/sashanftmarketplace": "^1.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/ZlatanJ/Nftmarketplace.git"
+  },
+  "homepage": "https://github.com/ZlatanJ/Nftmarketplace.git#readme",
+  "devDependencies": {}
+}
